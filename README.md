@@ -1,7 +1,7 @@
 # COMP-3610: Big Data Analytics
 
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-3610-blue.svg?style=flat-square)
-![Assignments](https://img.shields.io/badge/Assignment-1-green.svg?style=flat-square)
+![Assignments](https://img.shields.io/badge/Assignments-1-green.svg?style=flat-square)
 
 ---
 
