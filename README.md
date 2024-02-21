@@ -7,7 +7,7 @@
 
 ## 📑 Assignment #1 Submissions
 
-Submit your assignments here: **[Google Drive Link](https://drive.google.com/drive/folders/1p4Vcp-dLoe2zmnuvnr-xJWfSEpJUsd-z?usp=sharing)**
+Submit your assignments here: **[Submission Portal](https://script.google.com/macros/s/AKfycbylf2bGMyhjKBdFl8M1vzOj6xueymOXjrJEDQKOtGb0lDVbvtbeRu4AXYnoigeqPM0yVA/exec)**
 
 ---
 
