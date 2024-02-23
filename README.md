@@ -3,67 +3,49 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-3610-blue.svg?style=flat-square)
 ![Assignments](https://img.shields.io/badge/Assignments-1-green.svg?style=flat-square)
 
----
-
 ## 📑 Assignment #1 Submissions
 
-- Submit your assignments here: **[Submission Portal](https://script.google.com/macros/s/AKfycbybfWedphGulToqUvqBIq_VtK4HNJnqcbq5cDUtusEaMEvtgSddWXIAJzmsevJCQZOS9w/exec)**
-- Due Date: Friday, Febrary 23rd 2024, 11:59 PM.
-- Late submissions accepted up to Tuesday, February 27th 2024, 11:59 PM. 5% penalty applied for each day late, up to a maximum of 20%.
+- **Submit here**: [Submission Portal](https://script.google.com/macros/s/AKfycbybfWedphGulToqUvqBIq_VtK4HNJnqcbq5cDUtusEaMEvtgSddWXIAJzmsevJCQZOS9w/exec)
+- **Due Date**: Friday, February 23rd, 2024, 11:59 PM
+- **Late Submissions**: Accepted until Tuesday, February 27th, 2024, 11:59 PM (5% daily penalty, max 20%)
 
-###Trusting the Unverified App
+### Trusting the Unverified App
 
-When you first use the submission portal, becuase Google hasn't verified the app, you'll encounter a warning screen. This guide will show you how to proceed safely.
-- Step 1: Encounter the Warning Screen
+Upon first use, you'll see a warning due to Google's unverified app status. Here's how to bypass:
 
-Upon attempting to authorize the submission portal, you'll see a screen like this:
-![Click Advanced](https://imgur.com/UauhlZ4)
+1. **Warning Screen**: Encounter a warning upon authorization attempt.
+   
+   ![Warning Screen](https://imgur.com/UauhlZ4)
 
-Google displays this warning because the app is not verified. This is a standard procedure for all new or unverified apps accessing Google services.
+2. **Advanced Options**: Click **Advanced** to proceed.
+   
+   After clicking **Advanced**, select "COMP 3610: Assignment #1 Submission Portal (unsafe)" to continue.
+   
+   ![Proceed to App](https://imgur.com/y5zSJrp)
 
-- Step 2: Proceed to the app (Unsafe)
+3. **Grant Permissions**: Review and click **Allow** if you agree with the permissions.
 
-To continue, click on Advanced to reveal more options.
+4. **Completion**: Post-permission, you're redirected back, now fully authorized.
 
-After clicking Advanced, you'll see an option to go to "COMP 3610: Assignment #1 Submission Portal (unsafe)". Click on it to proceed: ![Click Proceed](https://imgur.com/y5zSJrp)
-
-- Step 3: Grant Permissions
-
-Next, you'll see a screen asking for permissions the app needs to operate. Review the permissions, and if you agree, click Allow.
-
-- Step 4: You're All Set!
-
-After granting permissions, you should be redirected back to the app, now fully authorized.
-Why Does This Happen?
-
-Google requires all apps to go through a verification process to access Google services. This process involves a security review to ensure the app complies with Google's policies. Until an app is verified, Google shows these warnings to protect users from potentially harmful apps.
----
+**Why This Happens**: Google mandates a verification process for app security. Until verified, warnings protect against potential harm.
 
 ## 📅 Lab Sessions
 
-**Date**: 15th February 2024
+- **Date**: February 15th, 2024
+- **Join**: [Zoom Meeting](https://sta-uwi-edu.zoom.us/rec/share/LX42IK1eMvhIIMmQxzdUPx-NSk3ml0gQ1YGhBl9TV-Aanh45z6j1UgceoMCvh9PF.-KX8-F_bu_N26037)
+- **Passcode**: `@D!t9GS6`
 
-View the lab session: **[Zoom Meeting](https://sta-uwi-edu.zoom.us/rec/share/LX42IK1eMvhIIMmQxzdUPx-NSk3ml0gQ1YGhBl9TV-Aanh45z6j1UgceoMCvh9PF.-KX8-F_bu_N26037)**
-
-**Passcode**: `@D!t9GS6`
-
----
-
-### 🛠️ Resources
+## 🛠️ Resources
 
 - [D3.js Documentation](https://d3js.org/)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
----
+## 📖 Course Materials
 
-### 📖 Course Materials
+- [Course Slides (Dropbox)](https://www.dropbox.com/scl/fo/85srquuyfhq63mc2zlwq1/h?rlkey=7an69tceh11sz6rkecra64z7s&dl=0)
+- [Assignments & Labs (GitHub)](https://github.com/Santius0/COMP-3610)
 
-- Access course slides on the [COMP 3610 Dropbox](https://www.dropbox.com/scl/fo/85srquuyfhq63mc2zlwq1/h?rlkey=7an69tceh11sz6rkecra64z7s&dl=0).
-- Access course assignment and lab material on [Github](https://github.com/Santius0/COMP-3610).
+## 📧 Contact
 
----
-
-### 📧 Contact
-
-For any queries, reach out to [sergio.mathurin@sta.uwi.edu](mailto:sergio.mathurin@sta.uwi.edu).
+For queries, email [sergio.mathurin@sta.uwi.edu](mailto:sergio.mathurin@sta.uwi.edu).
