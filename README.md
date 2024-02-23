@@ -15,13 +15,13 @@ Upon first use, you'll see a warning due to Google's unverified app status. Here
 
 1. **Warning Screen**: Encounter a warning upon authorization attempt.
    
-   ![Warning Screen](https://imgur.com/UauhlZ4)
+   [Warning Screen](https://imgur.com/UauhlZ4)
 
 2. **Advanced Options**: Click **Advanced** to proceed.
    
    After clicking **Advanced**, select "COMP 3610: Assignment #1 Submission Portal (unsafe)" to continue.
    
-   ![Proceed to App](https://imgur.com/y5zSJrp)
+   [Proceed to App](https://imgur.com/y5zSJrp)
 
 3. **Grant Permissions**: Review and click **Allow** if you agree with the permissions.
 
