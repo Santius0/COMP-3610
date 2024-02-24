@@ -3,39 +3,49 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-3610-blue.svg?style=flat-square)
 ![Assignments](https://img.shields.io/badge/Assignments-1-green.svg?style=flat-square)
 
----
-
 ## 📑 Assignment #1 Submissions
 
-Submit your assignments here: **[Google Drive Link](https://drive.google.com/drive/folders/1p4Vcp-dLoe2zmnuvnr-xJWfSEpJUsd-z?usp=sharing)**
+- **Submit here**: [Submission Portal](https://script.google.com/macros/s/AKfycbybfWedphGulToqUvqBIq_VtK4HNJnqcbq5cDUtusEaMEvtgSddWXIAJzmsevJCQZOS9w/exec)
+- **Due Date**: Friday, February 23rd, 2024, 11:59 PM
+- **Late Submissions**: Accepted until Tuesday, February 27th, 2024, 11:59 PM (5% daily penalty, max 20%)
 
----
+### Trusting the Unverified App
+
+Upon first use, you'll see a warning due to Google's unverified app status. Here's how to bypass:
+
+1. **Warning Screen**: Encounter a warning upon authorization attempt.
+   
+   ![Warning Screen](https://i.imgur.com/UauhlZ4.png)
+
+2. **Advanced Options**: Click **Advanced** to proceed.
+   
+   After clicking **Advanced**, select "COMP 3610: Assignment #1 Submission Portal (unsafe)" to continue.
+   
+   ![Proceed to App](https://i.imgur.com/y5zSJrp.png)
+
+3. **Grant Permissions**: Review and click **Allow** if you agree with the permissions.
+
+4. **Completion**: Post-permission, you're redirected back, now fully authorized.
+
+**Why This Happens**: Google mandates a verification process for app security. Until verified, warnings protect against potential harm.
 
 ## 📅 Lab Sessions
 
-**Date**: 15th February 2024
+- **Date**: February 15th, 2024
+- **Join**: [Zoom Meeting](https://sta-uwi-edu.zoom.us/rec/share/LX42IK1eMvhIIMmQxzdUPx-NSk3ml0gQ1YGhBl9TV-Aanh45z6j1UgceoMCvh9PF.-KX8-F_bu_N26037)
+- **Passcode**: `@D!t9GS6`
 
-View the lab session: **[Zoom Meeting](https://sta-uwi-edu.zoom.us/rec/share/LX42IK1eMvhIIMmQxzdUPx-NSk3ml0gQ1YGhBl9TV-Aanh45z6j1UgceoMCvh9PF.-KX8-F_bu_N26037)**
-
-**Passcode**: `@D!t9GS6`
-
----
-
-### 🛠️ Resources
+## 🛠️ Resources
 
 - [D3.js Documentation](https://d3js.org/)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
----
+## 📖 Course Materials
 
-### 📖 Course Materials
+- [Course Slides (Dropbox)](https://www.dropbox.com/scl/fo/85srquuyfhq63mc2zlwq1/h?rlkey=7an69tceh11sz6rkecra64z7s&dl=0)
+- [Assignments & Labs (GitHub)](https://github.com/Santius0/COMP-3610)
 
-- Access course slides on the [COMP 3610 Dropbox](https://www.dropbox.com/scl/fo/85srquuyfhq63mc2zlwq1/h?rlkey=7an69tceh11sz6rkecra64z7s&dl=0).
-- Access course assignment and lab material on [Github](https://github.com/Santius0/COMP-3610).
+## 📧 Contact
 
----
-
-### 📧 Contact
-
-For any queries, reach out to [sergio.mathurin@sta.uwi.edu](mailto:sergio.mathurin@sta.uwi.edu).
+For queries, email [sergio.mathurin@sta.uwi.edu](mailto:sergio.mathurin@sta.uwi.edu).
