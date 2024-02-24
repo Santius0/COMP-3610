@@ -11,7 +11,7 @@
 
 var yScale = d3.scaleLinear()
       .domain([0, d3.max(dataset)])
-      .range([0, svgHeight]);
+      .range([0, svgHeight - 50]);
 
  var barChart = svg.selectAll("rect")
      .data(dataset)

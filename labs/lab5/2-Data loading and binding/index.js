@@ -5,5 +5,5 @@ d3.select('body')
     .data(dataset)
     .enter()
     .append('p')
-    .text("Hello world!");
-    // .text(function(d){return d;});
+    // .text("Hello world!");
+    .text(function(d){return d;});
