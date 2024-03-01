@@ -1,11 +1,11 @@
 # COMP-3610: Big Data Analytics
 
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-3610-blue.svg?style=flat-square)
-![Assignments](https://img.shields.io/badge/Assignments-1-green.svg?style=flat-square)
+![Assignments](https://img.shields.io/badge/Assignments-2-green.svg?style=flat-square)
 
 ## 📑 Assignment #1 Submissions
 
-- **Submit here**: [Submission Portal](https://script.google.com/macros/s/AKfycbybfWedphGulToqUvqBIq_VtK4HNJnqcbq5cDUtusEaMEvtgSddWXIAJzmsevJCQZOS9w/exec)
+- **Submit here**: [Submission Portal](#)
 - **Due Date**: Friday, February 23rd, 2024, 11:59 PM
 - **Late Submissions**: Accepted until Tuesday, February 27th, 2024, 11:59 PM (5% daily penalty, max 20%)
 
