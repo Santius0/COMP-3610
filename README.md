@@ -10,9 +10,14 @@
 
 ## 📑 Assignment #2 Submissions
 
-- **Submit here**: [Submission Portal (link to be updated)](#)
+- **Submit here**: [Submission Portal](https://script.google.com/macros/s/AKfycbzIGgDUNoiaCsXiSMICL4nq2jW55dG5dxMqageatynP0DhyhIKeK7MhkOdbbcgalqOLig/exec)
 - **Due Date**: Friday, March 15th, 2024, 11:59 PM
 - **Late Submissions**: Accepted until Tuesday, March 19th, 2024, 11:59 PM (5% daily penalty, max 20%)
+
+## 📑 Project Proposal Submissions
+
+- **Submit here**: [Submission Link](https://drive.google.com/drive/folders/121_EDFGMUfA6bb0Yv6g9Dbp4NjdbmLhq?usp=sharing)
+- **Due Date**: Monday, March 11th, 2024, 11:59 PM
 
 ### Trusting the Unverified App
 
