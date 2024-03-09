@@ -1,0 +1,49 @@
+Installing Apache Spark Locally and Configuring it with Jupyter Notebook
+
+Prerequisites
+-------------
+Ensure you have Java Development Kit (JDK) 8 or later installed as Spark runs on the Java Virtual Machine (JVM).
+
+Downloading PySpark with pip
+----------------------------
+- Install PySpark with pip:
+    $ pip install pyspark
+
+- Alternatively, visit Spark's download page at https://spark.apache.org/downloads.html. Keep the default settings through the first 3 steps and proceed to download Spark on the fourth step.
+
+- After downloading, untar the file (e.g., spark-3.x.x-bin-hadoop3.2.tgz) using:
+    $ tar xvf spark-3.x.x-bin-hadoop3.2.tgz
+
+- Move the untarred Spark directory to /usr/local/spark with:
+    $ sudo mv spark-3.x.x-bin-hadoop3.2 /usr/local/spark
+
+- Navigate to the Spark directory and view the README file for more information:
+    $ cd /usr/local/spark
+    $ cat README.md
+
+Spark in Jupyter Notebook
+-------------------------
+- Launch Jupyter Notebook configured for PySpark by setting environment variables:
+    PYSPARK_DRIVER_PYTHON="jupyter" PYSPARK_DRIVER_PYTHON_OPTS="notebook" pyspark
+
+- Alternatively, launch Jupyter Notebook normally and configure PySpark with `findspark`:
+    !pip install findspark
+    import findspark
+    findspark.init('/usr/local/spark')
+
+    from pyspark.sql import SparkSession
+    spark = SparkSession.builder.master("local[*]").appName("PySpark_Tutorial").getOrCreate()
+
+Jupyter Notebook with Spark Kernel
+----------------------------------
+- Install Apache Toree to use Spark directly within Jupyter:
+    $ pip install toree
+    $ jupyter toree install --spark_home=/usr/local/spark --interpreters=Scala,PySpark
+
+- Verify the Spark kernel is installed:
+    $ jupyter kernelspec list
+
+- Start Jupyter Notebook as usual or with specific Spark options:
+    SPARK_OPTS='--master=local[4]' jupyter notebook
+
+This guide outlines the steps to install Spark locally and configure it for use with Jupyter Notebook, including the installation of PySpark via pip, setting up Spark in Jupyter Notebook, and installing a Jupyter Notebook kernel for Spark.
