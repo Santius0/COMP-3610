@@ -10,34 +10,13 @@
 
 ## 📑 Assignment #2 Submissions
 
-- **Submit here**: [Submission Portal](https://forms.gle/FHx7DpFVhfxUhg1N7)
 - **Due Date**: Friday, March 15th, 2024, 11:59 PM
 - **Late Submissions**: Accepted until Tuesday, March 19th, 2024, 11:59 PM (5% daily penalty, max 20%)
 
 ## 📑 Project Proposal Submissions
 
-- **Submit here**: [Submission Link](https://drive.google.com/drive/folders/121_EDFGMUfA6bb0Yv6g9Dbp4NjdbmLhq?usp=sharing)
 - **Due Date**: Monday, March 11th, 2024, 11:59 PM
 
-### Trusting the Unverified App
-
-Upon first use, you'll see a warning due to Google's unverified app status. Here's how to bypass:
-
-1. **Warning Screen**: Encounter a warning upon authorization attempt.
-   
-   ![Warning Screen](https://i.imgur.com/UauhlZ4.png)
-
-2. **Advanced Options**: Click **Advanced** to proceed.
-   
-   After clicking **Advanced**, select "COMP 3610: Assignment #1 Submission Portal (unsafe)" to continue.
-   
-   ![Proceed to App](https://i.imgur.com/y5zSJrp.png)
-
-3. **Grant Permissions**: Review and click **Allow** if you agree with the permissions.
-
-4. **Completion**: Post-permission, you're redirected back, now fully authorized.
-
-**Why This Happens**: Google mandates a verification process for app security. Until verified, warnings protect against potential harm.
 
 ## 📅 Lab Sessions
 
@@ -55,6 +34,7 @@ Upon first use, you'll see a warning due to Google's unverified app status. Here
 
 - [Course Slides (Dropbox)](https://www.dropbox.com/scl/fo/85srquuyfhq63mc2zlwq1/h?rlkey=7an69tceh11sz6rkecra64z7s&dl=0)
 - [Assignments & Labs (GitHub)](https://github.com/Santius0/COMP-3610)
+- [Final Exam Resources](https://drive.google.com/drive/folders/17Lvg0qbYtruRq3hz3l3gzzOidiN5_WW-?usp=sharing)
 
 ## 📧 Contact
 
