@@ -6,6 +6,7 @@
 - **Submit [HERE](https://forms.gle/5R3qtzMD31K2VUQv7)**
 - Submit final report as a PDF along with Github links and any other required resources as a single zip file titled _groupLetter_.zip. E.g "A.zip", "B.zip" etc
 - Maximum submission size is 100 MB. Include links to datasets rather than including the raw dataset etc
+- You can make multiple submissions. **Only the most recent one will be accepted**
 - **Due Date**: Friday, March 19th, 2024, 11:59 PM
   
 ## 📑 Assignment #1 Submissions
