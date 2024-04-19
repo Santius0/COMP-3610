@@ -2,6 +2,12 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-3610-blue.svg?style=flat-square)
 ![Assignments](https://img.shields.io/badge/Assignments-2-green.svg?style=flat-square)
 
+## 📑 Project Report
+- Submit final report as a PDF along with Github links and any other required resources as a single zip file titled <groupLetter>.zip. E.g A.zip, B.zip etc
+- Maximum submission size is 100 MB. Include links to datasets rather than including the raw dataset etc.
+- Submit [here](https://forms.gle/5R3qtzMD31K2VUQv7).
+- **Due Date**: Friday, March 19th, 2024, 11:59 PM
+- 
 ## 📑 Assignment #1 Submissions
 - **Due Date**: Friday, February 23rd, 2024, 11:59 PM
 - **Late Submissions**: Accepted until Tuesday, February 27th, 2024, 11:59 PM (5% daily penalty, max 20%)
